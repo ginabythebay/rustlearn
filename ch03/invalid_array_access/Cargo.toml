@@ -1,0 +1,10 @@
+[package]
+name = "invalid_array_access"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "invalid_array_access"
+path = "main.rs"
